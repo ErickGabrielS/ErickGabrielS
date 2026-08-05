@@ -1,16 +1,112 @@
-## Hi there 👋
+# Erick Gabriel Silva
 
-<!--
-**ErickGabrielS/ErickGabrielS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer Jr. focused on backend development, APIs and enterprise system integrations.
 
-Here are some ideas to get you started:
+Currently working with software development and maintenance of corporate systems using C#, .NET, ASP.NET Core, SQL Server and REST APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My experience also includes integrations involving SAP, OData, ABAP, CDS Views, internal systems, databases and external platforms, as well as production troubleshooting, error handling, logging and process automation.
+
+---
+
+## About me
+
+I work with backend development and system integrations, participating in the evolution and maintenance of business-critical applications.
+
+My daily work involves:
+
+- Backend development with C# and .NET
+- REST API development and consumption
+- Integration between enterprise systems
+- SQL Server and data processing
+- Production issue investigation
+- Error handling, validation and logging
+- Process automation with Python
+- Requirements analysis and collaboration with business areas
+
+My goal is to continue evolving as a Software Engineer, deepening my knowledge in software architecture, automated testing, distributed systems, observability and cloud-native development.
+
+---
+
+## Main stack
+
+### Backend
+- C#
+- .NET
+- ASP.NET Core
+- REST APIs
+- OData
+
+### Data
+- SQL
+- SQL Server
+
+### Enterprise integrations
+- SAP
+- ABAP
+- CDS Views
+
+### Tools and practices
+- Git
+- Logging
+- Error handling
+- API integration
+- Production troubleshooting
+
+### Complementary technologies
+- Python
+- JavaScript
+- TypeScript
+- React
+
+---
+
+## Currently improving
+
+I am currently strengthening my knowledge in:
+
+- Entity Framework Core
+- LINQ
+- Automated tests
+- xUnit
+- SOLID principles
+- Software architecture
+- Docker
+- CI/CD
+- API security
+- Observability
+- Messaging and asynchronous processing
+
+---
+
+## Featured projects
+
+### Integration Platform
+Backend project focused on system integration, APIs, asynchronous processing, reliability and observability.
+
+> In development
+
+### Order Management API
+Backend API focused on software architecture, maintainability, automated testing and clean code practices.
+
+> In development
+
+---
+
+## Professional focus
+
+I am interested in opportunities involving:
+
+- Software Engineering
+- Backend Development
+- C# / .NET
+- REST APIs
+- Enterprise Integrations
+- Distributed Systems
+- Remote work
+
+---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/erick-gabriel-l-2023a0126
+- GitHub: https://github.com/ErickGabrielS
