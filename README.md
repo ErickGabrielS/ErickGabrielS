@@ -78,20 +78,6 @@ I am currently strengthening my knowledge in:
 
 ---
 
-## Featured projects
-
-### Integration Platform
-Backend project focused on system integration, APIs, asynchronous processing, reliability and observability.
-
-> In development
-
-### Order Management API
-Backend API focused on software architecture, maintainability, automated testing and clean code practices.
-
-> In development
-
----
-
 ## Professional focus
 
 I am interested in opportunities involving:
