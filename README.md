@@ -78,6 +78,13 @@ I am currently strengthening my knowledge in:
 
 ---
 
+## Featured project
+
+### [incremental-sync-worker](https://github.com/ErickGabrielS/incremental-sync-worker)
+.NET 8 worker that syncs orders from an ERP incrementally: watermark-based reads with an overlap window, idempotent upserts, status mapping table, per-item integration log with reprocessing, and HTTP resilience with Polly. EF Core (SQL Server/SQLite), xUnit, Docker and GitHub Actions.
+
+---
+
 ## Professional focus
 
 I am interested in opportunities involving:
